@@ -1,6 +1,6 @@
 # Custom Block Template
 
-| **Description**       | Display information about a GitHub repository in your posts or pages.                |
+| **Description**       | Template for a basic custom WordPress block with no build tools needed               |
 | --------------------- | ------------------------------------------------------------------------------------ |
 | **Contributors**      | contributorhandle                                                                    |
 | **Donate link**       | [https://david.garden/plugins](https://david.garden/plugins)                         |
