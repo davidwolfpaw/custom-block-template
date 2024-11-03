@@ -44,9 +44,9 @@ function custom_block_template_register_block() {
 	register_block_type(
 		'custom/block-template',
 		array(
-			'editor_script' => 'custom-block-template-script',
-			'editor_style'  => 'custom-block-template-editor-style',
-			'style'         => 'custom-block-template-frontend-style',
+			'editor_script_handles' => array( 'custom-block-template-script' ),
+			'editor_style_handles'  => array( 'custom-block-template-editor-style' ),
+			'view_script_handles'   => array( 'custom-block-template-frontend-style' ),
 		)
 	);
 }
