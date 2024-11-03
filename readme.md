@@ -57,3 +57,7 @@ Planned upgrades to the plugin include:
 - Media Upload
 - Alignment Toolbar
 - RichText
+
+---
+
+I am not affiliated with Automattic and the WordPress Foundation. I fully disagree with the public actions taken by Matt Mullenweg, and what he is doing through his ownership of Automattic, the WordPress Foundation, and wordpress.org.
